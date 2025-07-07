@@ -1,0 +1,11 @@
+options
+addons_path =
+
+/home/adrian-gomez-c/odoo18/odoo/addons,
+   
+e/odoo/addons,
+admin_passwd=odoo18
+db_host = localhost
+db_name = False
+deb_password = odoo18
+
